@@ -1,2 +1,3 @@
 prima rifga di file 3
 seconda riga di file 3
+terza riga di file 3
