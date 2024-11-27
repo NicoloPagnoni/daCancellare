@@ -1,2 +1,3 @@
 prima riga di file 2
 seconda riga di file 2
+terza riga di file 2
