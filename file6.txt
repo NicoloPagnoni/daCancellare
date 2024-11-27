@@ -1,0 +1,2 @@
+prima riga di file 6
+seconda riga di file 6
