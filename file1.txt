@@ -1,2 +1,2 @@
 prima riga di file 1
-seconda riga di file 1
+seconda riga modificata di file 1
